@@ -37,13 +37,11 @@
 
 本人主要负责 STM32 电控与嵌入式软件部分，完成鱼体到位与鱼高检测、剖腹深度计算、M12 后段检测、电动推杆控制及复位流程。项目团队完成多工序一体化样机，并获全国大学生机械创新设计大赛全国一等奖。
 
-### 🤖 ROBOCON 仿生足式机器人挑战
+### 🤖 [ROBOCON-B601-Visual-Grasping](https://github.com/jirui-tian/ROBOCON-B601-Visual-Grasping)
 
 `Mechanical Arm` · `CAN` · `YOLO` · `RGB-D` · `Robot Integration`
 
-基于开源机械臂方案，完成五轴硬件与电机结构装配、CAN 通信和吸盘执行机构；参与 YOLO 目标检测与 RGB-D 深度相机集成，实现目标识别、空间定位、坐标转换及机械臂抓取控制。
-
-*项目仓库整理中。*
+基于 reBot Arm B601-DM 开源方案完成五轴机械臂硬件搭建、电机与结构件装配、CAN 通信及吸盘末端调试；参与 YOLO 与 Orbbec Gemini 2 RGB-D 深度相机集成，实现目标识别、空间定位、坐标转换及机械臂抓取控制。
 
 ### 🚗 ROS2 智能驾驶与自主导航
 
