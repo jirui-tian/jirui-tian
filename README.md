@@ -1,74 +1,110 @@
-# 田吉瑞 | Jirui Tian
+<h1 align="center">田吉瑞 · Jirui Tian</h1>
 
-Computer Science undergraduate · Robotics · Embedded Control · Intelligent Systems
+<p align="center">
+  <strong>Computer Science @ Yangtze University</strong><br />
+  机器人智能控制 · 嵌入式控制 · 机器人系统
+</p>
 
-## About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/STM32-Embedded%20Control-03234B?style=flat-square" alt="STM32 Embedded Control" />
+  <img src="https://img.shields.io/badge/Embedded%20C-Programming-00599C?style=flat-square" alt="Embedded C Programming" />
+  <img src="https://img.shields.io/badge/Python-Tools-3776AB?style=flat-square" alt="Python Tools" />
+  <img src="https://img.shields.io/badge/ROS2-Robotics-22314E?style=flat-square" alt="ROS2 Robotics" />
+  <img src="https://img.shields.io/badge/SLAM-Navigation-2E7D32?style=flat-square" alt="SLAM Navigation" />
+  <img src="https://img.shields.io/badge/Robotics-Systems-E65100?style=flat-square" alt="Robotics Systems" />
+  <img src="https://img.shields.io/badge/PyTorch-Learning-EE4C2C?style=flat-square" alt="PyTorch Learning" />
+</p>
 
-I am a Computer Science undergraduate at Yangtze University, with interests in robotics, embedded control, and robotic system integration.
-I am currently learning deep learning and building stronger foundations for intelligent systems.
+## 👋 关于我 / About Me
+
+- 我是长江大学计算机科学与技术专业本科生，关注机器人系统、嵌入式控制与智能系统。
+- 我通过 STM32、PLC、机械臂和 ROS2-SLAM 项目积累工程实践，重视从传感器、控制逻辑到整机调试的完整链路。
+- 近期学习 PyTorch 与深度学习基础，并继续补强机器人智能控制理论。
 
 **GPA: 4.04/5.00 | Rank: 18/234 (Top 7.7%) | CET-6: 498**
 
-## Research Interests
+## 🔬 研究兴趣 / Research Interests
 
-- Intelligent Robot Control
-- Embedded Control Systems
-- Robotic Systems & Autonomous Navigation
+- 机器人智能控制 / Intelligent Robot Control
+- 嵌入式控制系统 / Embedded Control Systems
+- 机器人系统与自主导航 / Robotic Systems & Autonomous Navigation
 
-## Featured Projects
+## 🚀 项目实践 / Featured Projects
 
-1. [**FishCut-STM32-Control**](https://github.com/jirui-tian/FishCut-STM32-Control) — STM32F103ZET6 electrical control, sensor acquisition, and C state-machine integration for an automatic fish-processing machine.
-2. **ROBOCON-RobotArm-System** — Five-axis robot-arm integration, CAN communication, RGB-D sensing, and visual grasping based on an open-source mechanical design. *Repository being organized.*
-3. **ROS2-Autocar-Navigation** — ROS2 SLAM mapping, navigation configuration, and real-platform debugging. *Repository being organized.*
-4. **PLC-MicroFactory-Control** — S7-1200/TIA Portal sequential control and sensor-feedback coordination for a micro-factory simulation line. *Repository being organized.*
+### 🐟 [FishCut-STM32-Control](https://github.com/jirui-tian/FishCut-STM32-Control)
 
-## Technical Skills
+`STM32` · `TOF200F` · `Embedded C` · `Sensor Integration` · `Actuator Control`
 
-### Embedded & Control
+本人主要负责 STM32 电控与嵌入式软件部分，完成鱼体到位与鱼高检测、剖腹深度计算、M12 后段检测、电动推杆控制及复位流程。项目团队完成多工序一体化样机，并获全国大学生机械创新设计大赛全国一等奖。
 
-- C
-- STM32 F103 / G431
-- Sensor acquisition
-- UART / CAN communication
-- Motor & actuator control
-- State-machine control
-- Hardware-software debugging
+### 🤖 ROBOCON 仿生足式机器人挑战
 
-### Robotics
+`Mechanical Arm` · `CAN` · `YOLO` · `RGB-D` · `Robot Integration`
 
-- ROS2
-- SLAM mapping
-- Navigation configuration
-- Robot arm system integration
-- RGB-D sensing
-- Visual localization and grasping
-- Real-platform debugging
+基于开源机械臂方案，完成五轴硬件与电机结构装配、CAN 通信和吸盘执行机构；参与 YOLO 目标检测与 RGB-D 深度相机集成，实现目标识别、空间定位、坐标转换及机械臂抓取控制。
 
-### Automation & Tools
+*项目仓库整理中。*
 
-- Siemens S7-1200 PLC
-- TIA Portal
-- Sequential control
-- Sensor feedback
-- Equipment coordination
-- Python
+### 🚗 ROS2 智能驾驶与自主导航
 
-## Currently Learning
+`ROS2` · `SLAM` · `LiDAR` · `Autonomous Navigation`
 
-- **PyTorch & Deep Learning Fundamentals** — currently learning the foundations.
-- **ResNet-18 Reproduction on CIFAR-10** — preparing for a reproduction study; not yet completed.
-- **Intelligent Robot Control** — currently studying related concepts and methods.
+参与 ROS2 平台调试、SLAM 建图、航点配置、真实车辆导航、雷达避障与交通灯响应验证。
 
-## Awards
+*项目仓库整理中。*
 
-- **National First Prize** — 全国大学生机械创新设计大赛
-- **National First Prize** — 全国大学生信息安全与对抗技术竞赛
-- **Two National Third Prizes** — 全国大学生机器人大赛 ROBOCON
-- **National Third Prize** — 全国三维数字化创新设计大赛
-- **First Prize, Central China Division** — 中国高校计算机大赛网络技术挑战赛
-- **Third Prize, Hubei Division** — 中国机器人及人工智能大赛（智能驾驶项目）
+### 🏭 PLC 微型工厂模拟产线
 
-## Contact
+`Siemens S7-1200` · `TIA Portal` · `PLC` · `Automation`
+
+负责 S7-1200 / TIA Portal 程序与调试，完成模块化顺序控制、传感反馈协调传送带/机械臂/库位，以及在线监测与排障。
+
+*项目仓库整理中。*
+
+## 🛠️ 技术栈 / Technical Skills
+
+### 嵌入式与控制 / Embedded & Control
+
+`STM32 F103 / G431` · `嵌入式 C` · `TOF200F` · `UART / CAN` · `传感器采集` · `执行机构控制` · `顺序式阶段控制` · `硬件联调`
+
+### 机器人系统 / Robotics Systems
+
+`ROS2` · `SLAM` · `Navigation` · `Robot Arm Integration` · `YOLO / RGB-D Integration` · `Waypoint Configuration` · `Real-platform Debugging`
+
+### 自动化与工具 / Automation & Tools
+
+`Siemens S7-1200` · `TIA Portal` · `Sequential Control` · `Sensor Feedback` · `Python` · `Git` · `Keil MDK`
+
+## 📚 近期学习 / Currently Learning
+
+- **PyTorch / Deep Learning Fundamentals** — `Learning`
+- **CNN / ResNet Basics** — `Learning`
+- **ResNet-18 on CIFAR-10** — `Preparing`
+- **Intelligent Robot Control Theory** — `Learning`
+
+## 🏆 竞赛荣誉 / Awards
+
+| 时间 | 竞赛 | 奖项 |
+| --- | --- | --- |
+| 2026.07.19 | “博实杯”第十二届全国大学生机械创新设计大赛常规赛全国决赛 | 全国一等奖 |
+| 2025 | 第22届全国大学生信息安全与对抗技术竞赛智能安全赛全国总决赛 | 全国一等奖 |
+| 2026.06.05 | 第十六届全国大学生计算机应用能力与数字素养大赛—数据分析与可视化（本科组） | 全国二等奖 |
+| 2026.06.05 | 第十六届全国大学生计算机应用能力与数字素养大赛—信息技术与素养（本科组） | 全国二等奖 |
+| 2026.08 | 第二十五届全国大学生机器人大赛 ROBOCON 仿生足式机器人挑战赛任务赛 | 三等奖 |
+| 2026.08 | 第二十五届全国大学生机器人大赛 ROBOCON 仿生足式机器人挑战赛障碍赛 | 三等奖 |
+| 2026.07 | 全国三维数字化创新设计大赛18周年精英联赛全国总决赛 | 全国三等奖 |
+| 2026.08.22 | 第十九届先进机器人及仿真技术大赛 | 国赛三等奖 |
+| 2026.06 | 中国高校计算机大赛2026网络技术挑战赛 | 华中赛区一等奖 |
+| 2026 | 第二十届 CIMC“西门子杯”中国智能制造挑战赛 | 全国初赛二等奖 |
+| 2026.06 | 第十九届中国大学生计算机设计大赛 | 中南地区赛二等奖 |
+| 2026.06 | 第二十八届中国机器人及人工智能大赛—Simuro 足球 | 湖北省三等奖 |
+| 2026.06 | 第二十八届中国机器人及人工智能大赛—智能驾驶 | 湖北省三等奖 |
+| 2026.05.08 | 第十七届蓝桥杯全国大学生软件和信息技术大赛电子赛—单片机设计与开发大学组 | 湖北赛区三等奖 |
+| 2026.05 | 2026年“挑战杯”中国大学生创业计划竞赛校赛 | 校赛三等奖 |
+
+📄 **[查看完整获奖证书 / Awards & Certificates](https://github.com/jirui-tian/Awards-and-Certificates)**
+
+## 📫 联系方式 / Contact
 
 - GitHub: [@jirui-tian](https://github.com/jirui-tian)
 - Email: 17702761581@163.com
