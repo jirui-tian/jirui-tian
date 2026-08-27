@@ -17,7 +17,7 @@ I am currently learning deep learning and building stronger foundations for inte
 
 ## Featured Projects
 
-1. **FishCut-STM32-Control** — STM32F103ZET6 electrical control, sensor acquisition, and C state-machine integration for an automatic fish-processing machine. *Repository being organized.*
+1. [**FishCut-STM32-Control**](https://github.com/jirui-tian/FishCut-STM32-Control) — STM32F103ZET6 electrical control, sensor acquisition, and C state-machine integration for an automatic fish-processing machine.
 2. **ROBOCON-RobotArm-System** — Five-axis robot-arm integration, CAN communication, RGB-D sensing, and visual grasping based on an open-source mechanical design. *Repository being organized.*
 3. **ROS2-Autocar-Navigation** — ROS2 SLAM mapping, navigation configuration, and real-platform debugging. *Repository being organized.*
 4. **PLC-MicroFactory-Control** — S7-1200/TIA Portal sequential control and sensor-feedback coordination for a micro-factory simulation line. *Repository being organized.*
