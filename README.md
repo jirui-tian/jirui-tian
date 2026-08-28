@@ -49,13 +49,11 @@
 
 基于 ROS2 完成智能竞速小车的 GMapping 建图、地图与多航点配置、Nav2 自主导航及实车调试；结合 LiDAR 与 costmap 完成障碍感知验证，并参与交通灯/人行横道事件与任务控制链联调。
 
-### 🏭 PLC 微型工厂模拟产线
+### 🏭 [PLC-MicroFactory-Automation](https://github.com/jirui-tian/PLC-MicroFactory-Automation)
 
-`Siemens S7-1200` · `TIA Portal` · `PLC` · `Automation`
+`Siemens S7-1200` · `TIA Portal` · `LAD` · `PLC` · `Industrial Automation`
 
-负责 S7-1200 / TIA Portal 程序与调试，完成模块化顺序控制、传感反馈协调传送带/机械臂/库位，以及在线监测与排障。
-
-*项目仓库整理中。*
+主要负责 Siemens S7-1200 PLC 程序编写与调试，基于 TIA Portal V16 和 LAD 完成复位、供料、输送、检测及仓储入库流程的顺序控制，并结合工步变量、定时器和传感器反馈协调多执行机构运行。
 
 ## 🛠️ 技术栈 / Technical Skills
 
