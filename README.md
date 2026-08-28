@@ -43,13 +43,11 @@
 
 基于 reBot Arm B601-DM 开源方案完成五轴机械臂硬件搭建、电机与结构件装配、CAN 通信及吸盘末端调试；参与 YOLO 与 Orbbec Gemini 2 RGB-D 深度相机集成，实现目标识别、空间定位、坐标转换及机械臂抓取控制。
 
-### 🚗 ROS2 智能驾驶与自主导航
+### 🚗 [ROS2-Racecar-Intelligent-Driving](https://github.com/jirui-tian/ROS2-Racecar-Intelligent-Driving)
 
-`ROS2` · `SLAM` · `LiDAR` · `Autonomous Navigation`
+`ROS2` · `SLAM` · `Nav2` · `LiDAR` · `Autonomous Navigation`
 
-参与 ROS2 平台调试、SLAM 建图、航点配置、真实车辆导航、雷达避障与交通灯响应验证。
-
-*项目仓库整理中。*
+基于 ROS2 完成智能竞速小车的 GMapping 建图、地图与多航点配置、Nav2 自主导航及实车调试；结合 LiDAR 与 costmap 完成障碍感知验证，并参与交通灯/人行横道事件与任务控制链联调。
 
 ### 🏭 PLC 微型工厂模拟产线
 
